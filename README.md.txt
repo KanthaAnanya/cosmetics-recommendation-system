@@ -55,3 +55,19 @@ streamlit run Cosmetics_Recommendation_System_App.py
 ##The app will open in your browser at:
 
 http://localhost:8501/
+
+
+## Screenshots
+### Home Page
+![Home Page](home.PNG)
+
+### Recommendations Page
+![Recommendations Page](Recommendations.PNG)
+
+### More Recommendation Results
+![More Recommendations](Recommendations2.PNG)
+
+### Contact Page
+![Contact Page](Contacts.PNG)
+
+
